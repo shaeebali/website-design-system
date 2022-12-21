@@ -1,4 +1,13 @@
 * {
   box-sizing: border-box;
   margin: auto 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+section {
+  border: 1px solid black;
 }
