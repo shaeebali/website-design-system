@@ -8,6 +8,7 @@
 
 h1 {
   text-align: center;
+  margin-top: 20px;
 }
 
 h2 {
@@ -28,22 +29,26 @@ section {
 }
 
 .color-panel-1 {
-  background-color: black;
-  padding: 20px;
+  background-color: #845EC2;
+  padding: 30px;
   width: 250px;
+  border: 2px dotted red;
 }
 .color-panel-2 {
-  background-color: blue;
-  padding: 20px;
+  background-color: #B39CD0;
+  padding: 30px;
   width: 250px;
+  border: 2px dotted red;
 }
 .color-panel-3 {
-  background-color: violet;
-  padding: 20px;
+  background-color: #FBEAFF;
+  padding: 30px;
   width: 250px;
+  border: 2px dotted red;
 }
 .color-panel-4 {
-  background-color: green;
-  padding: 20px;
+  background-color: #00C9A7;
+  padding: 30px;
   width: 250px;
+  border: 2px dotted red;
 }
