@@ -52,3 +52,39 @@ section {
   width: 250px;
   border: 2px dotted red;
 }
+
+.fonts-panel-1 {
+  font-family: monospace;
+  font-size: 18px;
+}
+
+.mono-title {
+  font-size: 30px;
+  text-decoration: underline;
+  padding-bottom: 20px;
+}
+
+.mono-italic {
+  font-style: italic;
+}
+
+.fonts-panel-2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 18px;
+}
+
+.treb-title {
+  font-size: 30px;
+  text-decoration: underline;
+  padding: 20px 0;
+}
+
+.treb-italic {
+  font-style: italic;
+}
+
+.treb-bold {
+  font-style: bold;
+}
+
+
