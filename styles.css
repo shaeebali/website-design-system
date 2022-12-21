@@ -1,7 +1,9 @@
 * {
   box-sizing: border-box;
-  margin: auto 0;
+  margin: 0 auto;
   padding: 0;
+  width: 1300px;
+  
 }
 
 h1 {
@@ -10,4 +12,17 @@ h1 {
 
 section {
   border: 1px solid black;
+}
+
+.color-panel-1 {
+  background-color: black;
+}
+.color-panel-2 {
+  background-color: blue;;
+}
+.color-panel-3 {
+  background-color: violet;
+}
+.color-panel-4 {
+  background-color: green;
 }
