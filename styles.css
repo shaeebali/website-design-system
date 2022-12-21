@@ -3,26 +3,47 @@
   margin: 0 auto;
   padding: 0;
   width: 1300px;
-  
+  max-width: 1300px;
 }
 
 h1 {
   text-align: center;
 }
 
+h2 {
+  text-align: left;;
+  padding-bottom: 20px;
+}
+
 section {
   border: 1px solid black;
+  padding: 20px;
+  margin: 30px 0;
+}
+
+.colors div {
+  display: inline-block;
+  margin-left: 50px;
+  text-align: center;
 }
 
 .color-panel-1 {
   background-color: black;
+  padding: 20px;
+  width: 250px;
 }
 .color-panel-2 {
-  background-color: blue;;
+  background-color: blue;
+  padding: 20px;
+  width: 250px;
 }
 .color-panel-3 {
   background-color: violet;
+  padding: 20px;
+  width: 250px;
 }
 .color-panel-4 {
   background-color: green;
+  padding: 20px;
+  width: 250px;
 }
