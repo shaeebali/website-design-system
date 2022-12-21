@@ -14,6 +14,7 @@ h1 {
 h2 {
   text-align: left;;
   padding-bottom: 20px;
+  font-size: 26px;
 }
 
 section {
@@ -108,6 +109,35 @@ section {
 
 .arial-bold {
   font-weight: bold;
+}
+
+#h1-styles {
+  text-align: left;
+  padding-bottom: 20px;
+  font-size: 30px;
+}
+
+#h2-styles {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+#p-styles {
+
+}
+
+ul {
+  padding-top: 10px;
+  list-style: none;
+  padding-bottom: 20px;
+}
+
+li {
+  padding-left: 20px;
+}
+
+p {
+  font-size: 18px;
 }
 
 
